@@ -1,0 +1,16 @@
+/* Page1.css */
+.page1-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.page1-title {
+    color: #333;
+}
+
+.page1-time {
+    color: #555;
+}
